@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/campa/static/css/main.f10f0d2a.chunk.css",
+    "main.js": "/campa/static/js/main.531efdd6.chunk.js",
+    "main.js.map": "/campa/static/js/main.531efdd6.chunk.js.map",
+    "runtime-main.js": "/campa/static/js/runtime-main.d522148f.js",
+    "runtime-main.js.map": "/campa/static/js/runtime-main.d522148f.js.map",
+    "static/css/2.ff9ea1f9.chunk.css": "/campa/static/css/2.ff9ea1f9.chunk.css",
+    "static/js/2.a89466b3.chunk.js": "/campa/static/js/2.a89466b3.chunk.js",
+    "static/js/2.a89466b3.chunk.js.map": "/campa/static/js/2.a89466b3.chunk.js.map",
+    "index.html": "/campa/index.html",
+    "precache-manifest.69c236f85bbfdf92035b879454404b55.js": "/campa/precache-manifest.69c236f85bbfdf92035b879454404b55.js",
+    "service-worker.js": "/campa/service-worker.js",
+    "static/css/2.ff9ea1f9.chunk.css.map": "/campa/static/css/2.ff9ea1f9.chunk.css.map",
+    "static/css/main.f10f0d2a.chunk.css.map": "/campa/static/css/main.f10f0d2a.chunk.css.map",
+    "static/media/logo.svg": "/campa/static/media/logo.25bf045c.svg"
+  }
+}
