@@ -1,0 +1,14 @@
+.tabs {
+    display:flex;
+    flex-direction: row;
+    justify-content: space-around;
+    color: #FFFFFF;
+    paddinig: 0 30%;
+}
+
+.ind-tab {
+    padding: 10px 20px;
+    text-align: center;
+    background: rgb(107, 129, 72);
+    font-weight: bold;
+}

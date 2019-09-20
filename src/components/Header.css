@@ -1,0 +1,21 @@
+.header {
+    display: flex;
+    flex-direction: row;
+    text-align: center;
+    color: white;
+    background: #818d94;
+    padding: 10px;
+}
+
+.header__spotlight {
+    text-align: left;
+    width:80%;
+}
+
+.header__beta {
+    width: 10%;
+}
+
+.header__options {
+    width: 10%;
+}
