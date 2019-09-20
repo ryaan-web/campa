@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "11674b8a880745a1c42a15ddb300e7fa",
+    "revision": "77904248adf2105f2a140dced56bf7e8",
     "url": "/campa/index.html"
   },
   {
@@ -8,16 +8,16 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/campa/static/css/2.ff9ea1f9.chunk.css"
   },
   {
-    "revision": "393c8deecfe0629775ab",
-    "url": "/campa/static/css/main.f10f0d2a.chunk.css"
+    "revision": "16a531d230f59645a4a5",
+    "url": "/campa/static/css/main.c8815cd1.chunk.css"
   },
   {
     "revision": "3c4fbc43091422d5cffd",
     "url": "/campa/static/js/2.a89466b3.chunk.js"
   },
   {
-    "revision": "393c8deecfe0629775ab",
-    "url": "/campa/static/js/main.531efdd6.chunk.js"
+    "revision": "16a531d230f59645a4a5",
+    "url": "/campa/static/js/main.e6aa9bed.chunk.js"
   },
   {
     "revision": "514ce2ce752bd155f7ee",
