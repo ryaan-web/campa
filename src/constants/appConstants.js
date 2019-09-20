@@ -3,7 +3,6 @@ import moment from 'moment';
 const appContants = {
     TAB_TITLES: {
         UPCOMING_CAMPAIGNS : "UPCOMING CAMPAIGNS",
-        LIVE_CAMPAIGNS: "LIVE CAMPAIGN",
         PAST_CAMPAIGNS: "PAST CAMPAIGNS"
     },
     LANG_LIST: {

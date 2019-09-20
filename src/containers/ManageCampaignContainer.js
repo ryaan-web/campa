@@ -19,10 +19,9 @@ export default class ManageCampaignContainer extends React.Component {
         };
     }
 
-    handleTabClick = (e) => {
-        alert(e.target.innerHTML);
+    handleTabClick = (tab) => {
         this.setState({
-            selectedTab: e.target.innerHTML
+            selectedTab: tab
         })
     }
 
@@ -70,7 +69,7 @@ export default class ManageCampaignContainer extends React.Component {
         return (
             <div class="manage-capaign-container">
                 <div class="campaign-tabs">
-                    <CampaignTabs tabs={appContants.TAB_TITLES} handleTabClick={this.handleTabClick}></CampaignTabs>
+                    <CampaignTabs tabs={appContants.TAB_TITLES} handleTabClick={this.handleTabClick} selectedTab={this.state.selectedTab}></CampaignTabs>
                 </div>
                 <div class="campaign-table-container">
                     <CampaignTable
@@ -82,7 +81,8 @@ export default class ManageCampaignContainer extends React.Component {
                         activateDatePicker={this.activateDatePicker}
                         deactivateDatePicker={this.deactivateDatePicker}
                         isDatePickerActive={this.state.isDatePickerActive}
-                        handleDateChange={this.handleDateChange}>
+                        handleDateChange={this.handleDateChange}
+                        selectedTab={this.state.selectedTab}>
                     </CampaignTable>
                 </div>
                     <Modal className="modal-content" open={this.state.isViewModalOpen} onClose={this.handleModalClose} hideBackdrop={false}>
